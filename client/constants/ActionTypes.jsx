@@ -1,0 +1,7 @@
+export const ADD_LIST = 'ADD_LIST'
+export const DEL_LIST = 'DEL_LIST'
+export const CHANGE_WIN = 'CHANGE_WIN'
+export const CHANGE_EDITING = 'CHANGE_EDITING'
+export const ADD_DETAIL = 'ADD_DETAIL'
+export const FIN_DETAIL = 'FIN_DETAIL'
+export const DEL_DETAIL = 'DEL_DETAIL'
